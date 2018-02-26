@@ -1,0 +1,2 @@
+Which processes are running: C:\>tasklist
+Forcefully Kill a Process: C:\>Taskkill /PID 26356 /F
